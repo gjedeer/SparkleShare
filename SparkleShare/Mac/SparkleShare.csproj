@@ -112,6 +112,9 @@
     <Compile Include="..\SparklePlugin.cs">
       <Link>SparklePlugin.cs</Link>
     </Compile>
+    <Compile Include="..\SparkleInvite.cs">
+      <Link>SparkleInvite.cs</Link>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainMenu.xib" />
